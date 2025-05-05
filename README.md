@@ -17,4 +17,4 @@ Software Developer @ Innovate Engineering Products
 ![Ganesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/R_GANESAN?theme=dark&font=Quintessential&ext=contest)
-[![Ganesan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GANESANGANESAN3&bg_color=000000&color=ffffff&line=ffffff&point=613737&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
